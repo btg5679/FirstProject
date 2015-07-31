@@ -1,3 +1,5 @@
+THESE ARE THE VERY BASIC STEPS FOR COMMITTING AND PUSHING CHANGES FROM YOUR LOCAL REPOSITORY TO YOUR ONLINE REPOSITORY
+
 git status --will show you all files not being watched by git
 git add file.txt --adds to git watch list
 git commit -m “Add file.txt”
