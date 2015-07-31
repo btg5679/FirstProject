@@ -1,6 +1,5 @@
 git status --will show you all files not being watched by git
 git add file.txt --adds to git watch list
 git commit -m “Add file.txt”
+git push
 
-
-git push -u origin master  --pushes changes
